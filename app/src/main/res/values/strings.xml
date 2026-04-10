@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">MonAnatomie</string>
+    <string name="title">Les mystères de ton corps</string>
+
+    <!-- bar navigation -->
+    <string name="home">Accueil</string>
+    <string name="profil">Profil</string>
+
+    <!-- cerveau -->
+    <string name="titre_cerveau">Le cerveau et les sens</string>
+    <string name="neurone">Les neurones</string>
+    <string name="emotion">Les émotions</string>
+    <string name="memoire">La mémoire</string>
+    <string name="sens">Les 5 sens</string>
+
+    <!-- coeur et poumons -->
+    <string name="titre_coeurpourmons">Le cœur et les poumons</string>
+    <string name="coeur">Le cœur, une pompe</string>
+    <string name="art_vei">Artères, Veines</string>
+    <string name="globules">Les globules rouges et blancs</string>
+    <string name="sang">Les groupes sanguins</string>
+    <string name="poumon">Les poumons, l\'oxygène</string>
+
+    <!-- structure : os et muscles et peau -->
+    <string name="titre_structure">La structure : os, muscles et peau</string>
+    <string name="os">Les os, le cadre</string>
+    <string name="muscles">Les muscles, les moteurs</string>
+    <string name="peau">La peau, le bouclier</string>
+    <string name="regul">Notre thermomètre</string>
+    <string name="main">Se laver les mains</string>
+
+    <!-- énergie, digestion -->
+    <string name="titre_digestion">L\'énergie : le système digestif</string>
+    <string name="digestion">Le voyage de l\'aliment</string>
+    <string name="nutrition">Bonne alimentation</string>
+
+    <!-- détails CERVEAU -->
+    <string name="neurone_titre">Les neurones, des cellules spécialisées</string>
+    <string name="neurone_detail">
+    Ton cerveau contient 86 milliards de neurones, ils
+    sont très nombreux. Ils se connectent entre eux comme des amis, un neurone peut se connecter
+    à 10000 autres neurones. Tu te vois avoir 10000 amis. \n
+    Les neurones permettent de transmettre les messages que ton corps envoie. Par exemple, si tu passes ta
+    main sous l\'eau froide, la peau envoie un message. Et, en très peu de temps les neurones transportent
+    le message pour que le cerveau comprenne Oh! C\'est froid!
+    </string>
+
+    <string name="emotion_titre">Les émotions, ce que tu ressens</string>
+    <string name="emotion_detail">
+    Les émotions sont des réactions du cerveau face à ce que tu vis.\n
+    Elles peuvent être la joie, la tristesse, la peur, la colère, la surprise, ou plein d\'autres encore.\n
+    Quand tu ressens une émotion, ton cerveau libère des substances chimiques comme la dopamine (plaisir) ou le cortisol (stress).\n
+    Par exemple, quand tu reçois un cadeau, ton cerveau active la zone du plaisir et tu ressens de la joie, ou l\'excitation.
+    </string>
+
+    <string name="memoire_titre">La mémoire, le super pouvoir du cerveau</string>
+    <string name="memoire_detail">
+    La mémoire permet de garder des informations dans ton cerveau.\n
+    Il existe la mémoire courte (sec), la mémoire moyenne (min, h et ans) et la mémoire longue. Combien de temps
+    tu vas garder l\'information dans ta tête. \n
+    Ton hippocampe aide à transformer les souvenirs en mémoire durable.\n
+    Quand tu dors, ton cerveau répète ce que tu as appris pour mieux le retenir.\n
+    C\'est pour ça que dormir aide à apprendre !
+    </string>
+
+    <string name="sens_titre">Les 5 sens, pour comprendre le monde</string>
+    <string name="sens_detail">
+    Ton corps utilise 5 sens pour comprendre ce qui t\'entoure, le monde extérieur :\n
+    la vue (yeux), l\'ouïe (oreilles), l\'odorat (nez), le goût (langue) et le toucher (peau, main).\n
+    Chaque sens a des cellules spéciales : les récepteurs sensoriels.\n
+    Par exemple, tes yeux ont des cellules qui détectent la lumière, et tes oreilles détectent les vibrations du son.\n
+    Ton cerveau mélange et traite toutes ces informations pour comprendre le monde.\n
+    Le savais-tu, ce que tu vois, le cerveau le reçoit à l\'envers.
+    </string>
+
+    <string name="coeur_titre">Le cœur, une pompe qui ne s\'arrête jamais</string>
+    <string name="coeur_detail">
+    Le cœur est un muscle qui fonctionne comme une pompe.\n
+    Il envoie le sang dans tout ton corps, à toutes les extrémités, même le bout de ton petit doigt de pied.\n
+    Il bat environ 100 000 fois par jour et envoie environ 5 litres de sang par minute !\n
+    Le sang transporte l\'oxygène et les nutriments pour nourrir toutes les cellules de ton corps.
+    </string>
+
+    <string name="art_vei_titre">Les artères et les veines</string>
+    <string name="art_vei_detail">
+    Les artères et les veines sont les routes du sang dans ton corps.\n
+    Les artères transportent le sang du cœur vers les organes. Le sang est rempli d\'oxygène. Les
+    artères ont donc une paroi épaisse car le sang est sous pression.\n
+    Les veines ramènent le sang vers le cœur, le sang est alors pauvre en oxygène.\n
+    Les veines sont positionnées en superficie, tu peux les voir sur ta main par exemple, alors que
+    les artères sont en profondeur.
+    </string>
+
+    <string name="globules_titre">Les cellules du sang</string>
+    <string name="globules_detail">
+    Dans ton sang, il y a des globules rouges et des globules blancs.\n
+    Les globules rouges transportent l\'oxygène dans ton corps. Il y en a environ 5 millions dans
+    une seule goutte de sang.\n
+    Les globules blancs protègent ton corps contre les microbes comme des soldats, ils reconnaissent
+    et détruisent les microbes. Certains mémorisent les virus, ce qui permet d\'être immunisé,
+    protégé pour une prochaine fois.
+    </string>
+
+    <string name="sang_titre">Les groupes sanguins</string>
+    <string name="sang_detail">
+    Il existe 4 groupes sanguins : A, B, AB et O.\n
+    Chaque groupe dépend de petites étiquettes sur les globules rouges.\n
+    Ces étiquettes s\'appellent des antigènes A ou B, tu peux avoir les 2 donc tu es AB, tu peux aussi
+    en avoir aucun, dans ce cas tu es du groupe O.\n
+    Il existe aussi un facteur Rh, qui est une protéine, soit elle est présente sur tes globules rouges,
+    dans ce cas tu es +, sinon tu es -.\n
+    Si tu te blesses et que tu dois recevoir du sang, ton corps doit recevoir un sang compatible.
+    Sinon il se défend contre le sang que tu lui donnes.
+    </string>
+
+    <string name="poumon_titre">Les poumons, pour respirer</string>
+    <string name="poumon_detail">
+    Les poumons servent à respirer.\n
+    Ils permettent de prendre l\'oxygène et de rejeter le dioxyde de carbone.\n
+    Ils contiennent environ 300 millions de petites alvéoles où se font les échanges.\n
+    La surface totale des poumons est aussi grande qu’un terrain de tennis soit 70 m2 !\n
+    Le savais-tu, les poumons transmettent l\'oxygène au cœur qui le transmet au sang.
+    </string>
+
+    <string name="os_titre">Le squelette, le cadre du corps</string>
+    <string name="os_detail">
+    Le squelette est composé de 206 os chez l\'adulte. Et de 270 os quand tu es bébé.\n
+    Les os soutiennent ton corps et protègent tes organes importants comme le cœur et le cerveau.\n
+    Les os sont vivants, ils se régénèrent en permanence. Ils sont très solides et peuvent
+    se réparer s\'ils sont cassés.
+    </string>
+
+    <string name="muscles_titre">Les muscles, pour bouger</string>
+    <string name="muscles_detail">
+    Ton corps a environ 600 muscles, ce sont les moteurs de ton corps.\n
+    Les muscles travaillent avec les os pour te permettre de bouger, courir ou sauter.\n
+    Ils fonctionnent grâce à de l\'énergie produite par ton corps, ils transforment l\'énergie
+    chimique en mouvement.
+    </string>
+
+    <string name="peau_titre">La peau, un bouclier protecteur</string>
+    <string name="peau_detail">
+    La peau protège ton corps comme une armure.\n
+    Elle empêche les microbes d\'entrer et protège contre le froid et la chaleur.\n
+    Elle se renouvelle environ tous les 28 jours.\n
+    La peau est composée de 3 couches : épiderme, derme, hypoderme.
+    </string>
+
+    <string name="regul_titre">La température du corps</string>
+    <string name="regul_detail">
+    Ton corps garde une température d\'environ 37°C.\n
+    Quand il fait chaud, tu transpires pour te refroidir.\n
+    Quand il fait froid, tu trembles pour produire de la chaleur.\n
+    C\'est ton cerveau qui contrôle tout automatiquement.
+    </string>
+
+    <string name="main_titre">Se laver les mains</string>
+    <string name="main_detail">
+    Se laver les mains permet d’enlever les microbes invisibles présents sur ta peau.\n
+    Le savon détruit les microbes et protège contre les maladies.\n
+    Il est important de se laver les mains avant de manger et après être allé aux toilettes. Aussi,
+    quand tu es malade, fais-le plus souvent.
+    </string>
+
+    <string name="digestion_titre">Le voyage de la nourriture</string>
+    <string name="digestion_detail">
+    La nourriture commence son voyage dans la bouche où elle est mâchée, mise en pièce.\n
+    Elle passe ensuite dans l\'estomac qui contient de l\'acide chlorhydrique, où elle est transformée.\n
+    Puis les intestins absorbent les nutriments pour nourrir le corps et avoir de l\'énergie.\n
+    Le trajet complet peut durer de quelques minutes jusqu\'à 24 ou même 48 heures.
+    </string>
+
+    <string name="nutrition_titre">Manger équilibré</string>
+    <string name="nutrition_detail">
+    Pour être en bonne santé, il faut manger de tout.\n
+    Les fruits et légumes donnent des vitamines.\n
+    Les viandes et poissons aident à construire les muscles.\n
+    Les féculents donnent de l\'énergie.\n
+    Boire de l\'eau est essentiel pour s\'hydrater, pour vivre.
+    </string>
+</resources>
