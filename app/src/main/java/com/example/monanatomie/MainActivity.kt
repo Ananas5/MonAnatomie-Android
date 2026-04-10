@@ -12,7 +12,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyHorizontalGrid
-import androidx.compose.foundation.lazy.grid.itemsIndexed // Importé pour gérer les index
+import androidx.compose.foundation.lazy.grid.itemsIndexed
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.rememberScrollState
@@ -96,7 +96,7 @@ fun AnatomyElement(
     Surface(
         shape = MaterialTheme.shapes.medium,
         color = MaterialTheme.colorScheme.surfaceVariant,
-        modifier = modifier.clickable { onClick() } // Correction : le clickable doit être ici
+        modifier = modifier.clickable { onClick() } 
     ) {
         Row(
             verticalAlignment = Alignment.CenterVertically,
@@ -121,8 +121,8 @@ fun AnatomyElement(
 @Composable
 fun ElementGrid(
     data: List<ElementData>,
-    startIndex: Int, // On ajoute l'index de départ
-    onItemClick: (Int) -> Unit, // On renvoie l'index cliqué
+    startIndex: Int, 
+    onItemClick: (Int) -> Unit, 
     modifier: Modifier = Modifier
 ){
     LazyHorizontalGrid(
@@ -219,7 +219,7 @@ fun HomeScreen(navController: NavController, modifier: Modifier = Modifier) {
         Section(R.string.titre_digestion) {
             ElementRow(
                 data = DigestionData,
-                startIndex = 14, // Commence après les autres (14 éléments au total avant)
+                startIndex = 14, // Commence après les autres (14 éléments au total)
                 onItemClick = { index -> navController.navigate("detail/$index") }
             )
         }
